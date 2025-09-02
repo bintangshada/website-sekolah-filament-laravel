@@ -74,7 +74,7 @@
         <ul>
           <li><a href="/">Home</a></li>
           <li><a href="/visimisi">Visi Misi</a></li>
-          <li><a href="/prestasi">Prestasi</a></li>
+          <li><a href="/prestasi">Prestasi Sekolah</a></li>
           <li><a href="/contact">Kontak</a></li>
           <li><a href="/blog">Blog</a></li>
         </ul>
