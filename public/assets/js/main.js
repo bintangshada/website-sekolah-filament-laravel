@@ -1,4 +1,3 @@
-import './bootstrap';
 /**
 * Template Name: eNno
 * Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/

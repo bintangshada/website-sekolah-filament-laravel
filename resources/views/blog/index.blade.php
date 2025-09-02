@@ -2,7 +2,7 @@
     use Illuminate\Support\Str;
 @endphp
 
-@extends('welcome')
+@extends('template')
 
 @section('content')
     <h1>Blog</h1>
